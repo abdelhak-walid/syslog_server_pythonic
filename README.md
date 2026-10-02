@@ -13,7 +13,7 @@ A Python-based network automation tool designed to monitor Cisco IOS syslog stre
 
 ## Topology & Testing Environment
 
-![Network Topology](topology-syslog-server.png)
+![Network Topology](topology-syslog-server.PNG)
 
 - **Emulator:** **PNETLab**
 - **Host Machine:** Windows PC running the Python script (acting as the Syslog Server).
